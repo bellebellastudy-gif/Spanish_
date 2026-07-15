@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Mastery",
+  "description": "An immersive, full-stack, self-teaching Spanish learning platform combining a structured curriculum, AI tutoring, and interactive speech and writing practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
